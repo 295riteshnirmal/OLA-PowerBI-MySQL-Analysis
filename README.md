@@ -6,9 +6,14 @@ OLA Ride Analysis Dashboard project developed using Power BI and MySQL to analyz
 
 Project Objectives
 
-Analyze ride booking trends
-Track successful and cancelled rides
-Measure customer and driver ratings
-Analyze payment methods
-Identify high-value customers
-Create interactive business dashboards
+.Analyze ride booking trends
+
+.Track successful and cancelled rides
+
+.Measure customer and driver ratings
+
+.Analyze payment methods
+
+.Identify high-value customers
+
+.Create interactive business dashboards
